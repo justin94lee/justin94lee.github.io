@@ -12,7 +12,9 @@ locale:             en_US
 url:                https://justin94lee.github.io
 
 # Jekyll
-permalink:          /:year-:month-:day/:title.html
+#removed date from permalink due to image links error
+#permalink:          /:year-:month-:day/:title.html
+permalink:          /:title.html
 markdown:           kramdown
 highlighter:        rouge
 kramdown:

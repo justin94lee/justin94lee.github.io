@@ -3,7 +3,7 @@ layout: page
 title: About
 tags: [about]
 date: 2016-07-03
-feature: assets/img/notme.jpg 
+feature: assets/img/ABOUT.jpg 
 comments: false
 ---
 
