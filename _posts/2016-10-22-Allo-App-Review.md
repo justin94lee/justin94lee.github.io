@@ -8,6 +8,8 @@ feature: assets/img/2016-10-24/title.png
 comments: true
 ---
 
+>**更新**: Google 已经在今日（2019/03/13）关闭了Allo 应用
+
 >本文是在工作中对Allo 的一篇产品分析上编辑而来
 
 # Say Allo
